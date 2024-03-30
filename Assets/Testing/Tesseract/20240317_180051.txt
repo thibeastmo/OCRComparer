@@ -1,0 +1,44 @@
+PERTODE. 7
+
+de Zonne-Cirkel, Maan -Cirkel, en indiëtie 2
+Antw. Door deeling: want 6;oo door de geheele
+Zonne-Cirkel gedeelt zynde, rest 4 voor de Zone
+ne-Cirkel; door de geheele Maan-Cirkel 19 ge-
+deelt, rest o voor de Maan-Cirkel; en door I5,
+de geheele inaistie gedeelt zynde, rest 5 voor de
+indiëtie, van dat Jaar.
+
+aa. Indien men de voorgaande Tafel niet ter hand
+hadde, of ter zyden stelde; hoe zoude men dan
+het Juliaanfche Jaar-getal kunnen vinden ; by voorb.
+toen de Zonne-Cirkel 14, de Maan-Cirkel rs,
+en de JIndictie 6 was ?
+
+Antw. Dit geschied door de dAlgebre. Waar
+door dan een algemeene Regel bepaald kan wor-
+den, om het zelve ook door getallen te bewerken.
+
+Dit werk zal ik, uit de groote Sterrekunde van
+den Heere DE LA LANDE,, door, het zelve een
+weinig meerder te ontwikkelen, overneemen.
+
+Dit geval vertoont ons dan het volgende onbe-
+paalde VOORSTEL:
+
+Een getal te vinden, ’t welk door 28 gedeela
+zynde 14, door 19 gedeeld zynde 15, en door I3
+gedeeld zynde 6 overlaat ?
+
+OPLOSSING. Stel voor de drie uitkomsten,
+die ’er, naa de deeling door de drie gegeevene
+getallen, 28, I9, en 15, komen moeten == %, J,
+z. En neem de gegeevene overschotten, T4, I5,
+en 6— a, b, e.
+
+Zoo kan men daar mede op volgende wyze
+
+werken :
+
+K
+
+ 

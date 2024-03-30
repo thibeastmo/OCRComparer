@@ -1,0 +1,35 @@
+PERIODE. 77
+
+de Zonne - Cirkel, Maan - Cirkel, en indictie ? 
+Antw. Door deeling: want 6500 door de geheele 
+Zonne-Cirkel gedeelt zynde, rest 4 voor de Zon-
+ne-Cirkel; door de geheele Maan-Cirkel 19 ge-
+deelt, rest 2 voor de Maan-Cirkel; en door 15, 
+de geheele indictie gedeelt zynde, rest 5 voor de 
+indictie, van dat Jaar.
+22. Indien men de voorgaande Tafel niet ter hand 
+hadde, of ter zyden stelde; hoe zoude men dan 
+het Juliaansche Jaar-getal kunnen vinden; by voorb. 
+toen de Zonne-Cirkel 14, de Maan-Cirkel 15, 
+en de Indictie 6 was?
+Antw. Dit geschied door de Algebra. Waar 
+door dan een algemeene Regel bepaald kan wor-
+den, om het zelve ook door getallen te bewerken.
+Dit werk zal ik, uit de groote Sterrekunde van 
+den Heere DE LA LANDE, door, her zelve een 
+weinig meerder te ontwikkelen, overneemen.
+Dit geval vertoont ons dan het volgende onbe-
+paalde VOORSTEL:
+
+Een getal te vinden, 't welk door 28 gedeeld 
+zynde 14, door 19 gedeeld zynde 15, en door 15 
+gedeeld zynde 6 overlaat?
+
+OPLOSSING. Stel voor de drie uitkomsten, 
+die 'er, naa de deeling door de drie gegeevene 
+getallen, 28, 19, en 15, komen moeten = x,y, 
+z. En neem de gegeevene overschotten, 14, 15, en 6= a, b, c.
+Zoo kan men daar mede op volgende wyze 
+werken:
+
+^ de
